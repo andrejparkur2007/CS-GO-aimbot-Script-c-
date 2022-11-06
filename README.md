@@ -1,1 +1,1 @@
-# CS-GO-aimbot-Script-c-
+# CSGO External Aimbot C++
